@@ -3,3 +3,5 @@ Sample file
 Another change
 
 I will also change the sample.txt
+
+Add something on line 7
