@@ -7,3 +7,5 @@ I will also change the sample.txt
 Add something on line 7
 
 This is a change for new-branch-3
+
+2nd change for new-branch-3
