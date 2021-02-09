@@ -1,5 +1,1 @@
 Sample file
-
-Now I made another change.
-
-Testing revert again now with only one file
