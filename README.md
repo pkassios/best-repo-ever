@@ -8,6 +8,8 @@ I did one more change here
 
 A paragraph
 
-What if I change the staged file?
+What if I change the staged file? And I am changing a line also
 
 And then change it again?
+
+And let's add one more change at the end.
